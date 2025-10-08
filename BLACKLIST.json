@@ -1,6 +1,6 @@
 {
   "blacklist": [
-    {"type":"username","id":"test123","reason":"ВЫ СЛИШКОМ НУБАС"},
-    {"type":"hwid","id":"023c179b391228f5bc5fa2d3f5f647e5a28215ca2b8c0d09edbd9eae97f19af4","reason":"ВЫ СЛИШКОМ НУБАС"},
+    {"type":"username","id":"715_GodAlt","reason":"test"},
+    {"type":"hwid","id":"023c179b391228f5bc5fa2d3f5f647e5a28215ca2b8c0d09edbd9eae97f19af4","reason":"test"},
   ]
 }
