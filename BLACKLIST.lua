@@ -1,13 +1,19 @@
 {
-  "IP": [
-    "104.28.200.202",
-    "127.0.0.1"
-  ],
-  "HWID": [
-    "023c179b391228f5bc5fa2d3f5f647e5a28215ca2b8c0d09edbd9eae97f19af4",
-    "test_hwid_456"
-  ],
-  "UserIds": [
-    123456789,
-  ]
+    "players": [
+        {
+            "name": "715_GodAlt",
+            "id": "7268014557",
+            "reason": "TEST BAN!",
+            "banned_by": "Skaneexx",
+            "date": "2025-10-09"
+        },
+    ],
+    "hwids": [
+        {
+            "hwid": "hwid_hash_here",
+            "reason": "TEST BAN!",
+            "banned_by": "Skaneexx",
+            "date": "2025-10-09"
+        }
+    ]
 }
